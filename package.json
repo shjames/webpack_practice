@@ -1,0 +1,19 @@
+{
+  "name": "webpack_practice",
+  "version": "1.0.0",
+  "description": "webpack4练习项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shjames/webpack_practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shjames/webpack_practice/issues"
+  },
+  "homepage": "https://github.com/shjames/webpack_practice#readme"
+}
